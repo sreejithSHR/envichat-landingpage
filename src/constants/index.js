@@ -281,7 +281,7 @@ export const benefits = [
     text: "Create and customize chatbots effortlessly with our drag-and-drop interface. No coding required. Enhance customer support, streamline operations, and engage visitors with ease.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
-    imageUrl: "./src/images/card/1.jpeg",
+    imageUrl: "https://cdn.glitch.global/cda79dc7-180f-4b44-951d-0fa095563426/1.jpeg?v=1718521385900",
   },
   {
     id: "1",
@@ -289,7 +289,7 @@ export const benefits = [
     text: "Easily integrate our chatbot with your systems using simple APIs and comprehensive documentation. Enhance user interactions without any technical hassle.Enjoy automated processes and unified communication with ease.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
-    imageUrl: './src/images/card/card2.png',
+    imageUrl: 'https://cdn.glitch.global/cda79dc7-180f-4b44-951d-0fa095563426/card2.jpg?v=1718521386775',
     light: true,
   },
   {
@@ -298,7 +298,7 @@ export const benefits = [
     text: "Deploy chatbots quickly for real-time, 24/7 interaction with your audience, ensuring immediate responses and enhanced user satisfaction. Customize to fit your brand and keep your business always connected.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
-    imageUrl: './src/images/card/card3.png',
+    imageUrl: 'https://cdn.glitch.global/cda79dc7-180f-4b44-951d-0fa095563426/card3.png?v=1718521381100',
   },
   {
     id: "3",
@@ -306,7 +306,7 @@ export const benefits = [
     text: "Capture leads effortlessly with our chatbot app. Engage visitors naturally, gather data seamlessly, and enjoy automated follow-ups. Boost your sales funnel with ease.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
-    imageUrl: './src/images/card/card4.png',
+    imageUrl: 'https://cdn.glitch.global/cda79dc7-180f-4b44-951d-0fa095563426/card4.png?v=1718521383043',
     light: true,
   },
   {
@@ -315,7 +315,7 @@ export const benefits = [
     text: "Easily create and customize chatbots with our user-friendly, no-code platform. Manage interactions and track performance effortlessly. Enhance customer engagement with simplicity.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
-    imageUrl: './src/images/card/card5.webp',
+    imageUrl: 'https://cdn.glitch.global/cda79dc7-180f-4b44-951d-0fa095563426/card5.webp?v=1718521384177',
   },
   {
     id: "5",
@@ -323,7 +323,7 @@ export const benefits = [
     text: "Deliver prompt assistance round-the-clock with our chatbot app. Automated workflows ensure timely responses, providing instant solutions whenever needed.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
-    imageUrl:  './src/images/card/card6.png',
+    imageUrl:  'https://cdn.glitch.global/cda79dc7-180f-4b44-951d-0fa095563426/card6.png?v=1718521385076',
   },
 ];
 
